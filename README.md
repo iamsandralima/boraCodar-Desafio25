@@ -18,8 +18,7 @@ Figma <br>
 Visite o projeto online 🔗 [DESSE LINK](https://iamsandralima.github.io/boraCodar-Desafio25/)
 
 # 💻 Web Version
-<p align="center">
- <img width="70%" src= " "/></p># boraCodar-Desafio25
+<p align="center"></p># boraCodar-Desafio25
 
 https://github.com/iamsandralima/boraCodar-Desafio25/assets/107657763/82418d88-bdec-48c0-8c61-f042b0c69cbe
 
